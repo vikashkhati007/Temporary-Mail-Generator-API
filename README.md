@@ -1,7 +1,5 @@
 # Temporary Mail Generator API
 
-![Temporary Mail Generator API](https://example.com/path/to/image.png)
-
 The Temporary Mail Generator API provides a simple and convenient way to generate temporary email addresses and access the corresponding inbox messages. It is designed to be easy to use and integrate into your applications, making it ideal for various scenarios such as testing, account verification, and protecting your privacy online.
 
 ## Endpoints
@@ -66,8 +64,8 @@ Feel free to use the Temporary Mail Generator API to enhance your application's 
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues, have suggestions, or would like to contribute to the project, please open an issue or submit a pull request on the [GitHub repository](https://github.com/vikashkhati/Temporary-Mail-Generator-API).
+Contributions are welcome! If you encounter any issues, have suggestions, or would like to contribute to the project, please open an issue or submit a pull request on the [GitHub repository](https://github.com/vikashkhati007/Temporary-Mail-Generator-API).
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/vikashkhati/Temporary-Mail-Generator-API/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/vikashkhati007/Temporary-Mail-Generator-API/blob/main/LICENSE).
